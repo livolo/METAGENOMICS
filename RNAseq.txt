@@ -1,6 +1,5 @@
-# RNASEQ PIPELINE RUN IN LINUX MINT  
-
 ```bash
+
 (base) kirti@kirti-Extensa-215-52:~/Desktop/project metabolite$ pwd 
 
 /home/kirti/Desktop/project metabolite 
