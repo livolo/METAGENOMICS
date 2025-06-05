@@ -6,7 +6,8 @@ The resources and references used to build this tutorial are found at the bottom
 <b>Step 1: Identify or Obtain Relevant Data </b>
 <br> 
 Tools & Resources: <br>
-NCBI GEO – Gene expression datasets <br>
+NCBI GEO – Gene expression datasets 
+link - "https://www.ncbi.nlm.nih.gov/geo/" <br>
 Search using keywords: "cisplatin resistant OSCC RNA-seq" or "OSCC cisplatin resistance metabolomics" <br>
 
 <b>Step 2: Preprocess the RNA-seq Data</b> <br> 
