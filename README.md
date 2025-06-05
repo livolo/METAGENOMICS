@@ -19,7 +19,7 @@ featureCounts– Generate gene count matrix<br>
 Align reads and generate a gene count matrix<br> 
 Proceed to normalization & DE analysis<br> 
 
-<b>Step 3: Differential Gene Expression Analysis</b>
+<b>Step 3: Differential Gene Expression Analysis performed in goole Colab </b>
 <br>
 Tools: <br> 
 DESeq2 (R/Bioconductor) <br> 
