@@ -13,11 +13,12 @@ Search using keywords: "cisplatin resistant OSCC RNA-seq" or "OSCC cisplatin res
 <b>Step 2: Preprocess the RNA-seq Data</b> <br> 
 Tools: <br>
 FASTQC – Quality check for raw FASTQ files <br>
-Trimmomatic – Adapter trimming (optional)<br> 
+Trimmomatic – Adapter trimming<br> 
 HISAT2 – Read alignment to human genome (GRCh38) <br>
 featureCounts– Generate gene count matrix<br> 
 Align reads and generate a gene count matrix<br> 
 Proceed to normalization & DE analysis<br> 
+
 
 <b>Step 3: Differential Gene Expression Analysis performed in goole Colab </b>
 <br>
@@ -53,9 +54,11 @@ Oxidative phosphorylation.
 | Ascorbate and aldarate metabolism                    | 17    | 6.9524   | 13   | 0.0031026     | 2.5083   | 0.21718     | 0.020942    | 1.25     |
 | Citrate cycle (TCA cycle)                            | 42    | 17.177   | 26   | 0.0045299     | 2.3439   | 0.31257     | 0.028225    | 2.1463   |
 | Fructose and mannose metabolism                      | 40    | 16.359   | 24   | 0.010882      | 1.9633   | 0.74        | 0.062963    | 1.2821   |
+<br>
+![path_view_0_dpi72](C:\Users\kirti\OneDrive\Documents\Desktop\project metabolite\photo)
 
 
-<b>Step 5: (Optional) Integrate Metabolomics Data</b> <br>
+<b>Step 5: Integrate Metabolomics Data</b> <br>
 If available, integrate with transcriptomics to enhance insight.<br> 
 Tools:<br> 
 MetaboAnalyst (Joint Pathway Analysis)<br>
