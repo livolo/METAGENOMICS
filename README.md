@@ -55,8 +55,8 @@ Oxidative phosphorylation.
 | Citrate cycle (TCA cycle)                            | 42    | 17.177   | 26   | 0.0045299     | 2.3439   | 0.31257     | 0.028225    | 2.1463   |
 | Fructose and mannose metabolism                      | 40    | 16.359   | 24   | 0.010882      | 1.9633   | 0.74        | 0.062963    | 1.2821   |
 <br>
-![path_view_0_dpi72](C:\Users\kirti\OneDrive\Documents\Desktop\project metabolite\photo)
 
+![path_view_0_dpi72](c:\Users\kirti\OneDrive\Documents\Desktop\project metabolite\photo\path_view_0_dpi72.pdf)
 
 <b>Step 5: Integrate Metabolomics Data</b> <br>
 If available, integrate with transcriptomics to enhance insight.<br> 
