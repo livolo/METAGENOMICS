@@ -1,0 +1,35 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CFB	complement factor B [Source:HGNC Symbol;Acc:HGNC:1037]	15	3.3190159797668457	0.09093222	Yes	
+row_1	NECTIN4	nectin cell adhesion molecule 4 [Source:HGNC Symbol;Acc:HGNC:19688]	20	3.2325849533081055	0.18038793	Yes	
+row_2	APAF1	apoptotic peptidase activating factor 1 [Source:HGNC Symbol;Acc:HGNC:576]	173	2.401773452758789	0.23433019	Yes	
+row_3	OLR1	oxidized low density lipoprotein receptor 1 [Source:HGNC Symbol;Acc:HGNC:8133]	370	1.9959907531738281	0.2733038	Yes	
+row_4	SLPI	secretory leukocyte peptidase inhibitor [Source:HGNC Symbol;Acc:HGNC:11092]	374	1.9933193922042847	0.32842034	Yes	
+row_5	THBD	thrombomodulin [Source:HGNC Symbol;Acc:HGNC:11784]	587	1.6929807662963867	0.35763282	Yes	
+row_6	S100A9	S100 calcium binding protein A9 [Source:HGNC Symbol;Acc:HGNC:10499]	838	1.4527007341384888	0.37697798	Yes	
+row_7	CCL5	C-C motif chemokine ligand 5 [Source:HGNC Symbol;Acc:HGNC:10632]	890	1.4123222827911377	0.41192284	Yes	
+row_8	C3	complement C3 [Source:HGNC Symbol;Acc:HGNC:1318]	1298	1.1497819423675537	0.40966162	Yes	
+row_9	OXTR	oxytocin receptor [Source:HGNC Symbol;Acc:HGNC:8529]	1381	1.1228128671646118	0.43395993	Yes	
+row_10	SLFN12L	schlafen family member 12 like [Source:HGNC Symbol;Acc:HGNC:33920]	1479	1.069383978843689	0.45551375	Yes	
+row_11	SLFN13	schlafen family member 13 [Source:HGNC Symbol;Acc:HGNC:26481]	1489	1.0621215105056763	0.48426014	Yes	
+row_12	ALDH1L1	aldehyde dehydrogenase 1 family member L1 [Source:HGNC Symbol;Acc:HGNC:3978]	1793	0.9425264596939087	0.48498076	Yes	
+row_13	CELSR1	cadherin EGF LAG seven-pass G-type receptor 1 [Source:HGNC Symbol;Acc:HGNC:1850]	1867	0.9168388843536377	0.50431395	Yes	
+row_14	DMKN	dermokine [Source:HGNC Symbol;Acc:HGNC:25063]	1899	0.9027294516563416	0.5267843	Yes	
+row_15	S100A8	S100 calcium binding protein A8 [Source:HGNC Symbol;Acc:HGNC:10498]	1953	0.8848168253898621	0.54690856	Yes	
+row_16	PLAT	plasminogen activator, tissue type [Source:HGNC Symbol;Acc:HGNC:9051]	2343	0.7877978682518005	0.536105	No	
+row_17	SBNO2	strawberry notch homolog 2 [Source:HGNC Symbol;Acc:HGNC:29158]	2637	0.71342533826828	0.53130203	No	
+row_18	MFSD2A	MFSD2 lysolipid transporter A, lysophospholipid [Source:HGNC Symbol;Acc:HGNC:25897]	2705	0.712399423122406	0.54546064	No	
+row_19	CD38	CD38 molecule [Source:HGNC Symbol;Acc:HGNC:1667]	3371	0.5864534378051758	0.50587296	No	
+row_20	NCMAP	non-compact myelin associated protein [Source:HGNC Symbol;Acc:HGNC:29332]	3480	0.559396505355835	0.51233655	No	
+row_21	CSTA	cystatin A [Source:HGNC Symbol;Acc:HGNC:2481]	3508	0.5543121099472046	0.525465	No	
+row_22	SLC25A30	solute carrier family 25 member 30 [Source:HGNC Symbol;Acc:HGNC:27371]	4025	0.44626176357269287	0.49450314	No	
+row_23	MS4A6A	membrane spanning 4-domains A6A [Source:HGNC Symbol;Acc:HGNC:13375]	4796	0.3451322615146637	0.43938947	No	
+row_24	TIMP1	TIMP metallopeptidase inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:11820]	5167	0.26154786348342896	0.4155647	No	
+row_25	STOM	stomatin [Source:HGNC Symbol;Acc:HGNC:3383]	6737	-0.03870425745844841	0.28480214	No	
+row_26	HP	haptoglobin [Source:HGNC Symbol;Acc:HGNC:5141]	7185	-0.15155649185180664	0.25145206	No	
+row_27	LILRB3	leukocyte immunoglobulin like receptor B3 [Source:HGNC Symbol;Acc:HGNC:6607]	7659	-0.25591591000556946	0.2188161	No	
+row_28	DSC2	desmocollin 2 [Source:HGNC Symbol;Acc:HGNC:3036]	8051	-0.332666277885437	0.19520222	No	
+row_29	INHBA	inhibin subunit beta A [Source:HGNC Symbol;Acc:HGNC:6066]	8307	-0.4054318368434906	0.18503717	No	
+row_30	LRG1	leucine rich alpha-2-glycoprotein 1 [Source:HGNC Symbol;Acc:HGNC:29480]	9351	-0.6489439606666565	0.115423255	No	
+row_31	CFD	complement factor D [Source:HGNC Symbol;Acc:HGNC:2771]	10014	-0.8618195652961731	0.083736524	No	
+row_32	TIFA	TRAF interacting protein with forkhead associated domain [Source:HGNC Symbol;Acc:HGNC:19075]	10712	-1.2036439180374146	0.058603752	No	
+row_33	CLDN1	claudin 1 [Source:HGNC Symbol;Acc:HGNC:2032]	11188	-1.5837763547897339	0.06268384	No	

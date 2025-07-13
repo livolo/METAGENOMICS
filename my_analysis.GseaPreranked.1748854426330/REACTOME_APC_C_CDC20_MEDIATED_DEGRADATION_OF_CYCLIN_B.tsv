@@ -1,0 +1,23 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ANAPC11	anaphase promoting complex subunit 11 [Source:HGNC Symbol;Acc:HGNC:14452]	3799	0.48374736309051514	-0.295169	No	
+row_1	CDC26	cell division cycle 26 [Source:HGNC Symbol;Acc:HGNC:17839]	4090	0.4340428113937378	-0.29822364	No	
+row_2	ANAPC4	anaphase promoting complex subunit 4 [Source:HGNC Symbol;Acc:HGNC:19990]	4126	0.4258340895175934	-0.28027573	No	
+row_3	UBE2E1	ubiquitin conjugating enzyme E2 E1 [Source:HGNC Symbol;Acc:HGNC:12477]	4468	0.35328564047813416	-0.29157233	No	
+row_4	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1 [Source:HGNC Symbol;Acc:HGNC:12458]	5956	0.1248718649148941	-0.41026935	No	
+row_5	CDC23	cell division cycle 23 [Source:HGNC Symbol;Acc:HGNC:1724]	6032	0.10555687546730042	-0.41138774	No	
+row_6	UBC	ubiquitin C [Source:HGNC Symbol;Acc:HGNC:12468]	6216	0.07052415609359741	-0.42329013	No	
+row_7	ANAPC15	anaphase promoting complex subunit 15 [Source:HGNC Symbol;Acc:HGNC:24531]	7146	-0.1391593962907791	-0.4944468	No	
+row_8	CDC20	cell division cycle 20 [Source:HGNC Symbol;Acc:HGNC:1723]	7683	-0.2635510265827179	-0.5265133	No	
+row_9	RPS27A	ribosomal protein S27a [Source:HGNC Symbol;Acc:HGNC:10417]	8035	-0.3293105363845825	-0.5398252	No	
+row_10	CDK1	cyclin dependent kinase 1 [Source:HGNC Symbol;Acc:HGNC:1722]	8598	-0.42761167883872986	-0.5660275	No	
+row_11	UBB	ubiquitin B [Source:HGNC Symbol;Acc:HGNC:12463]	8647	-0.44279879331588745	-0.5483388	No	
+row_12	ANAPC5	anaphase promoting complex subunit 5 [Source:HGNC Symbol;Acc:HGNC:15713]	9081	-0.5639011859893799	-0.55702794	No	
+row_13	ANAPC7	anaphase promoting complex subunit 7 [Source:HGNC Symbol;Acc:HGNC:17380]	10362	-0.996262788772583	-0.6156099	Yes	
+row_14	CDC16	cell division cycle 16 [Source:HGNC Symbol;Acc:HGNC:1720]	10601	-1.124221682548523	-0.5804484	Yes	
+row_15	ANAPC1	anaphase promoting complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:19988]	10968	-1.3732984066009521	-0.54381496	Yes	
+row_16	UBE2C	ubiquitin conjugating enzyme E2 C [Source:HGNC Symbol;Acc:HGNC:15937]	11098	-1.4936649799346924	-0.4813837	Yes	
+row_17	ANAPC16	anaphase promoting complex subunit 16 [Source:HGNC Symbol;Acc:HGNC:26976]	11225	-1.628576397895813	-0.4120836	Yes	
+row_18	CCNB1	cyclin B1 [Source:HGNC Symbol;Acc:HGNC:1579]	11307	-1.7122070789337158	-0.33490428	Yes	
+row_19	UBE2D1	ubiquitin conjugating enzyme E2 D1 [Source:HGNC Symbol;Acc:HGNC:12474]	11441	-1.8970309495925903	-0.25302488	Yes	
+row_20	ANAPC10	anaphase promoting complex subunit 10 [Source:HGNC Symbol;Acc:HGNC:24077]	11450	-1.915385365486145	-0.15975253	Yes	
+row_21	CDC27	cell division cycle 27 [Source:HGNC Symbol;Acc:HGNC:1728]	11927	-4.083765029907227	5.8752287E-4	Yes	

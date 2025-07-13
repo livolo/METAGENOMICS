@@ -1,0 +1,50 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LTBP1	latent transforming growth factor beta binding protein 1 [Source:HGNC Symbol;Acc:HGNC:6714]	24	3.1573991775512695	0.07119877	Yes	
+row_1	BCL6	BCL6 transcription repressor [Source:HGNC Symbol;Acc:HGNC:1001]	208	2.3404502868652344	0.11007596	Yes	
+row_2	CXCL14	C-X-C motif chemokine ligand 14 [Source:HGNC Symbol;Acc:HGNC:10640]	247	2.245495557785034	0.15895045	Yes	
+row_3	CCN3	cellular communication network factor 3 [Source:HGNC Symbol;Acc:HGNC:7885]	271	2.1916558742523193	0.2078384	Yes	
+row_4	ENTPD5	ectonucleoside triphosphate diphosphohydrolase 5 (inactive) [Source:HGNC Symbol;Acc:HGNC:3367]	294	2.125587224960327	0.2552784	Yes	
+row_5	AKAP8L	A-kinase anchoring protein 8 like [Source:HGNC Symbol;Acc:HGNC:29857]	540	1.7517566680908203	0.275288	Yes	
+row_6	LEPR	leptin receptor [Source:HGNC Symbol;Acc:HGNC:6554]	554	1.7239125967025757	0.31417063	Yes	
+row_7	MAP3K8	mitogen-activated protein kinase kinase kinase 8 [Source:HGNC Symbol;Acc:HGNC:6860]	562	1.716672658920288	0.3533902	Yes	
+row_8	ALDH1A1	aldehyde dehydrogenase 1 family member A1 [Source:HGNC Symbol;Acc:HGNC:402]	569	1.716672658920288	0.39269385	Yes	
+row_9	IGFBP3	insulin like growth factor binding protein 3 [Source:HGNC Symbol;Acc:HGNC:5472]	859	1.4426515102386475	0.40183365	Yes	
+row_10	DUSP1	dual specificity phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:3064]	999	1.334671974182129	0.42108935	Yes	
+row_11	NBL1	NBL1, DAN family BMP antagonist [Source:HGNC Symbol;Acc:HGNC:7650]	1041	1.3068348169326782	0.44794452	Yes	
+row_12	SAT1	spermidine/spermine N1-acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10540]	1308	1.1444177627563477	0.45210353	Yes	
+row_13	MSC	musculin [Source:HGNC Symbol;Acc:HGNC:7321]	1373	1.1228128671646118	0.47275633	Yes	
+row_14	BHLHE40	basic helix-loop-helix family member e40 [Source:HGNC Symbol;Acc:HGNC:1046]	1398	1.1131833791732788	0.4965511	Yes	
+row_15	ID3	inhibitor of DNA binding 3 [Source:HGNC Symbol;Acc:HGNC:5362]	1903	0.9018385410308838	0.4750613	Yes	
+row_16	CEBPB	CCAAT enhancer binding protein beta [Source:HGNC Symbol;Acc:HGNC:1834]	2086	0.8529191017150879	0.47952777	Yes	
+row_17	NDRG1	N-myc downstream regulated 1 [Source:HGNC Symbol;Acc:HGNC:7679]	2121	0.8414060473442078	0.49617893	Yes	
+row_18	DDIT3	DNA damage inducible transcript 3 [Source:HGNC Symbol;Acc:HGNC:2726]	2371	0.7810888886451721	0.49334282	Yes	
+row_19	KLF9	KLF transcription factor 9 [Source:HGNC Symbol;Acc:HGNC:1123]	2577	0.7275388240814209	0.49296677	Yes	
+row_20	INMT	indolethylamine N-methyltransferase [Source:HGNC Symbol;Acc:HGNC:6069]	2852	0.6726920008659363	0.48551372	Yes	
+row_21	IRS2	insulin receptor substrate 2 [Source:HGNC Symbol;Acc:HGNC:6126]	2899	0.6594961285591125	0.4969369	Yes	
+row_22	GADD45B	growth arrest and DNA damage inducible beta [Source:HGNC Symbol;Acc:HGNC:4096]	2906	0.6570696830749512	0.5116691	Yes	
+row_23	CFHR1	complement factor H related 1 [Source:HGNC Symbol;Acc:HGNC:4888]	3481	0.559396505355835	0.476349	No	
+row_24	FOXO3	forkhead box O3 [Source:HGNC Symbol;Acc:HGNC:3821]	3738	0.5057047605514526	0.466538	No	
+row_25	MITF	melanocyte inducing transcription factor [Source:HGNC Symbol;Acc:HGNC:7105]	4783	0.3451322615146637	0.38670695	No	
+row_26	AMPD3	adenosine monophosphate deaminase 3 [Source:HGNC Symbol;Acc:HGNC:470]	4800	0.3451322615146637	0.39336422	No	
+row_27	CFH	complement factor H [Source:HGNC Symbol;Acc:HGNC:4883]	4824	0.3399171531200409	0.39931163	No	
+row_28	NR4A1	nuclear receptor subfamily 4 group A member 1 [Source:HGNC Symbol;Acc:HGNC:7980]	5203	0.24925178289413452	0.37328947	No	
+row_29	ITPR2	inositol 1,4,5-trisphosphate receptor type 2 [Source:HGNC Symbol;Acc:HGNC:6181]	5717	0.1757582128047943	0.33420518	No	
+row_30	MCM5	minichromosome maintenance complex component 5 [Source:HGNC Symbol;Acc:HGNC:6948]	5951	0.12618975341320038	0.31752852	No	
+row_31	CHD8	chromodomain helicase DNA binding protein 8 [Source:HGNC Symbol;Acc:HGNC:20153]	6383	0.03403118625283241	0.28205654	No	
+row_32	TCF25	transcription factor 25 [Source:HGNC Symbol;Acc:HGNC:29181]	6406	0.03004811331629753	0.28090242	No	
+row_33	HSPA2	heat shock protein family A (Hsp70) member 2 [Source:HGNC Symbol;Acc:HGNC:5235]	6571	-0.009682456031441689	0.26732922	No	
+row_34	NET1	neuroepithelial cell transforming 1 [Source:HGNC Symbol;Acc:HGNC:14592]	7030	-0.10738572478294373	0.23128667	No	
+row_35	TNS2	tensin 2 [Source:HGNC Symbol;Acc:HGNC:19737]	7155	-0.14211861789226532	0.22414987	No	
+row_36	HP	haptoglobin [Source:HGNC Symbol;Acc:HGNC:5141]	7185	-0.15155649185180664	0.22522451	No	
+row_37	PER2	period circadian regulator 2 [Source:HGNC Symbol;Acc:HGNC:8846]	7473	-0.21528054773807526	0.20607068	No	
+row_38	XRN1	5'-3' exoribonuclease 1 [Source:HGNC Symbol;Acc:HGNC:30654]	7747	-0.28109854459762573	0.18962096	No	
+row_39	TXNIP	thioredoxin interacting protein [Source:HGNC Symbol;Acc:HGNC:16952]	7906	-0.30872267484664917	0.18348707	No	
+row_40	SPSB1	splA/ryanodine receptor domain and SOCS box containing 1 [Source:HGNC Symbol;Acc:HGNC:30628]	7965	-0.30872267484664917	0.18576646	No	
+row_41	KLK1	kallikrein 1 [Source:HGNC Symbol;Acc:HGNC:6357]	7977	-0.30872267484664917	0.19200006	No	
+row_42	WNK1	WNK lysine deficient protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:14540]	8595	-0.42741209268569946	0.15000165	No	
+row_43	RO60	Ro60, Y RNA binding protein [Source:HGNC Symbol;Acc:HGNC:11313]	8904	-0.5057610273361206	0.13581707	No	
+row_44	IGF1R	insulin like growth factor 1 receptor [Source:HGNC Symbol;Acc:HGNC:5465]	8914	-0.5093369483947754	0.14687106	No	
+row_45	TGFBI	transforming growth factor beta induced [Source:HGNC Symbol;Acc:HGNC:11771]	9300	-0.6343965530395508	0.12919123	No	
+row_46	CITED2	Cbp/p300 interacting transactivator with Glu/Asp rich carboxy-terminal domain 2 [Source:HGNC Symbol;Acc:HGNC:1987]	9729	-0.7631849646568298	0.11088022	No	
+row_47	GDPD3	glycerophosphodiester phosphodiesterase domain containing 3 [Source:HGNC Symbol;Acc:HGNC:28638]	9772	-0.7757315635681152	0.12533534	No	
+row_48	DDX6	DEAD-box helicase 6 [Source:HGNC Symbol;Acc:HGNC:2747]	11715	-2.435386896133423	0.01842481	No	

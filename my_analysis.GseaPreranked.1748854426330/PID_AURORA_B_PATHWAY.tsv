@@ -1,0 +1,35 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NSUN2	NOP2/Sun RNA methyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:25994]	883	1.4199341535568237	-0.024826607	No	
+row_1	KLHL13	kelch like family member 13 [Source:HGNC Symbol;Acc:HGNC:22931]	1645	0.9906904101371765	-0.05432609	No	
+row_2	BIRC5	baculoviral IAP repeat containing 5 [Source:HGNC Symbol;Acc:HGNC:593]	4233	0.40159034729003906	-0.2577401	No	
+row_3	KLHL9	kelch like family member 9 [Source:HGNC Symbol;Acc:HGNC:18732]	5128	0.2705499529838562	-0.32345328	No	
+row_4	BUB1	BUB1 mitotic checkpoint serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1148]	5360	0.21354158222675323	-0.3354389	No	
+row_5	SGO1	shugoshin 1 [Source:HGNC Symbol;Acc:HGNC:25088]	5659	0.18904522061347961	-0.353906	No	
+row_6	PEBP1	phosphatidylethanolamine binding protein 1 [Source:HGNC Symbol;Acc:HGNC:8630]	6063	0.09939542412757874	-0.3843129	No	
+row_7	NPM1	nucleophosmin 1 [Source:HGNC Symbol;Acc:HGNC:7910]	6274	0.05718879774212837	-0.3999701	No	
+row_8	INCENP	inner centromere protein [Source:HGNC Symbol;Acc:HGNC:6058]	6501	0.007780046202242374	-0.4186896	No	
+row_9	CBX5	chromobox 5 [Source:HGNC Symbol;Acc:HGNC:1555]	6624	-0.019765915349125862	-0.42825362	No	
+row_10	PPP1CC	protein phosphatase 1 catalytic subunit gamma [Source:HGNC Symbol;Acc:HGNC:9283]	6625	-0.019978733733296394	-0.427559	No	
+row_11	AURKA	aurora kinase A [Source:HGNC Symbol;Acc:HGNC:11393]	6867	-0.06701677292585373	-0.44547933	No	
+row_12	SMC4	structural maintenance of chromosomes 4 [Source:HGNC Symbol;Acc:HGNC:14013]	7150	-0.13981632888317108	-0.46431363	No	
+row_13	CUL3	cullin 3 [Source:HGNC Symbol;Acc:HGNC:2553]	7463	-0.21341748535633087	-0.4831097	No	
+row_14	NCL	nucleolin [Source:HGNC Symbol;Acc:HGNC:7667]	7686	-0.26461824774742126	-0.49256325	No	
+row_15	TACC1	transforming acidic coiled-coil containing protein 1 [Source:HGNC Symbol;Acc:HGNC:11522]	7760	-0.28622347116470337	-0.48874566	No	
+row_16	PSMA3	proteasome 20S subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:9532]	7777	-0.29338014125823975	-0.47988972	No	
+row_17	PPP2R5D	protein phosphatase 2 regulatory subunit B'delta [Source:HGNC Symbol;Acc:HGNC:9312]	8684	-0.44615456461906433	-0.5405057	No	
+row_18	RHOA	ras homolog family member A [Source:HGNC Symbol;Acc:HGNC:667]	8801	-0.4757545590400696	-0.53371155	No	
+row_19	KIF23	kinesin family member 23 [Source:HGNC Symbol;Acc:HGNC:6392]	9705	-0.7509642839431763	-0.58347774	No	
+row_20	MYLK	myosin light chain kinase [Source:HGNC Symbol;Acc:HGNC:7590]	10413	-1.0212428569793701	-0.6073775	Yes	
+row_21	STMN1	stathmin 1 [Source:HGNC Symbol;Acc:HGNC:6510]	10553	-1.0978875160217285	-0.5808854	Yes	
+row_22	NCAPD2	non-SMC condensin I complex subunit D2 [Source:HGNC Symbol;Acc:HGNC:24305]	10659	-1.1585718393325806	-0.5494265	Yes	
+row_23	SMC2	structural maintenance of chromosomes 2 [Source:HGNC Symbol;Acc:HGNC:14011]	10769	-1.233938455581665	-0.51568335	Yes	
+row_24	NCAPG	non-SMC condensin I complex subunit G [Source:HGNC Symbol;Acc:HGNC:24304]	10804	-1.2593799829483032	-0.47475362	Yes	
+row_25	KIF2C	kinesin family member 2C [Source:HGNC Symbol;Acc:HGNC:6393]	10984	-1.3920023441314697	-0.44139668	Yes	
+row_26	RACGAP1	Rac GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:9804]	11085	-1.4805189371109009	-0.39832407	Yes	
+row_27	CDCA8	cell division cycle associated 8 [Source:HGNC Symbol;Acc:HGNC:14629]	11131	-1.5266501903533936	-0.34902608	Yes	
+row_28	CENPA	centromere protein A [Source:HGNC Symbol;Acc:HGNC:1851]	11222	-1.6257497072219849	-0.30006376	Yes	
+row_29	NCAPH	non-SMC condensin I complex subunit H [Source:HGNC Symbol;Acc:HGNC:1112]	11230	-1.6302770376205444	-0.24396981	Yes	
+row_30	AURKB	aurora kinase B [Source:HGNC Symbol;Acc:HGNC:11390]	11478	-1.9612162113189697	-0.19653603	Yes	
+row_31	NDC80	NDC80 kinetochore complex component [Source:HGNC Symbol;Acc:HGNC:16909]	11593	-2.1584882736206055	-0.13106787	Yes	
+row_32	KIF20A	kinesin family member 20A [Source:HGNC Symbol;Acc:HGNC:9787]	11657	-2.278067111968994	-0.057156805	Yes	
+row_33	EVI5	ecotropic viral integration site 5 [Source:HGNC Symbol;Acc:HGNC:3501]	11671	-2.310957670211792	0.022099148	Yes	

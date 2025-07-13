@@ -1,0 +1,21 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	136	2.531740427017212	0.12809938	Yes	
+row_1	PIK3C3	phosphatidylinositol 3-kinase catalytic subunit type 3 [Source:HGNC Symbol;Acc:HGNC:8974]	157	2.4684693813323975	0.2624478	Yes	
+row_2	PIK3CB	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:8976]	279	2.1726126670837402	0.37201607	Yes	
+row_3	LYN	LYN proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6735]	327	2.0673506259918213	0.48199448	Yes	
+row_4	PTPN6	protein tyrosine phosphatase non-receptor type 6 [Source:HGNC Symbol;Acc:HGNC:9658]	658	1.6125233173370361	0.54315764	Yes	
+row_5	VAV3	vav guanine nucleotide exchange factor 3 [Source:HGNC Symbol;Acc:HGNC:12659]	689	1.5816906690597534	0.62780017	Yes	
+row_6	PIK3R3	phosphoinositide-3-kinase regulatory subunit 3 [Source:HGNC Symbol;Acc:HGNC:8981]	1464	1.0754516124725342	0.62210363	Yes	
+row_7	PIK3C2A	phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 alpha [Source:HGNC Symbol;Acc:HGNC:8971]	1538	1.0424072742462158	0.6734196	Yes	
+row_8	PIK3R2	phosphoinositide-3-kinase regulatory subunit 2 [Source:HGNC Symbol;Acc:HGNC:8980]	2639	0.71342533826828	0.6204128	No	
+row_9	PLCG2	phospholipase C gamma 2 [Source:HGNC Symbol;Acc:HGNC:9066]	3793	0.4868820905685425	0.5504741	No	
+row_10	LAT	linker for activation of T cells [Source:HGNC Symbol;Acc:HGNC:18874]	4589	0.35328564047813416	0.50321954	No	
+row_11	RAC2	Rac family small GTPase 2 [Source:HGNC Symbol;Acc:HGNC:9802]	6084	0.09552253782749176	0.38309523	No	
+row_12	CYBA	cytochrome b-245 alpha chain [Source:HGNC Symbol;Acc:HGNC:2577]	6186	0.07656154036521912	0.37883753	No	
+row_13	PIK3CD	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [Source:HGNC Symbol;Acc:HGNC:8977]	6691	-0.02895287051796913	0.33813336	No	
+row_14	SYK	spleen associated tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11491]	6765	-0.04496461898088455	0.33448446	No	
+row_15	RAC1	Rac family small GTPase 1 [Source:HGNC Symbol;Acc:HGNC:9801]	6971	-0.0933079794049263	0.32242104	No	
+row_16	VAV1	vav guanine nucleotide exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:12657]	7152	-0.14005997776985168	0.31503215	No	
+row_17	PIK3CA	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:8975]	7670	-0.2594950497150421	0.28594115	No	
+row_18	ARPC1B	actin related protein 2/3 complex subunit 1B [Source:HGNC Symbol;Acc:HGNC:704]	8216	-0.38392382860183716	0.26135692	No	
+row_19	VAV2	vav guanine nucleotide exchange factor 2 [Source:HGNC Symbol;Acc:HGNC:12658]	10174	-0.9182828068733215	0.14771289	No	

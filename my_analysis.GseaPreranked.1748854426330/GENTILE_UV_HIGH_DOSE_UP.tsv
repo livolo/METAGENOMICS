@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LRBA	LPS responsive beige-like anchor protein [Source:HGNC Symbol;Acc:HGNC:1742]	26	3.105567693710327	0.18427266	Yes	
+row_1	HBEGF	heparin binding EGF like growth factor [Source:HGNC Symbol;Acc:HGNC:3059]	447	1.8803688287734985	0.26193243	Yes	
+row_2	PRSS3	serine protease 3 [Source:HGNC Symbol;Acc:HGNC:9486]	646	1.6302344799041748	0.34319866	Yes	
+row_3	SAT1	spermidine/spermine N1-acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10540]	1308	1.1444177627563477	0.35645482	Yes	
+row_4	TSC22D3	TSC22 domain family member 3 [Source:HGNC Symbol;Acc:HGNC:3051]	1399	1.1127055883407593	0.41570976	Yes	
+row_5	ISG15	ISG15 ubiquitin like modifier [Source:HGNC Symbol;Acc:HGNC:4053]	1473	1.0721385478973389	0.47395527	Yes	
+row_6	NUPR1	nuclear protein 1, transcriptional regulator [Source:HGNC Symbol;Acc:HGNC:29990]	1633	0.9977015256881714	0.52051693	Yes	
+row_7	PMAIP1	phorbol-12-myristate-13-acetate-induced protein 1 [Source:HGNC Symbol;Acc:HGNC:9108]	1680	0.9817298650741577	0.5755995	Yes	
+row_8	SFI1	SFI1 centrin binding protein [Source:HGNC Symbol;Acc:HGNC:29064]	1846	0.9262296557426453	0.61736673	Yes	
+row_9	GADD45A	growth arrest and DNA damage inducible alpha [Source:HGNC Symbol;Acc:HGNC:4095]	1882	0.9094922542572021	0.66903514	Yes	
+row_10	IL11	interleukin 11 [Source:HGNC Symbol;Acc:HGNC:5966]	1943	0.8858237862586975	0.71718514	Yes	
+row_11	PLA2G6	phospholipase A2 group VI [Source:HGNC Symbol;Acc:HGNC:9039]	2472	0.7546753883361816	0.7181995	Yes	
+row_12	ATF3	activating transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:785]	2498	0.7485440969467163	0.7610437	Yes	
+row_13	ELOB	elongin B [Source:HGNC Symbol;Acc:HGNC:11619]	4324	0.3773358166217804	0.6305944	No	
+row_14	COX6A1	cytochrome c oxidase subunit 6A1 [Source:HGNC Symbol;Acc:HGNC:2277]	5935	0.12899300456047058	0.5032718	No	

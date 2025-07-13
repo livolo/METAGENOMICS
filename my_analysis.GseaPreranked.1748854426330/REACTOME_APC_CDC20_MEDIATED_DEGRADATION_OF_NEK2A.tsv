@@ -1,0 +1,25 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ANAPC11	anaphase promoting complex subunit 11 [Source:HGNC Symbol;Acc:HGNC:14452]	3799	0.48374736309051514	-0.29787853	No	
+row_1	CDC26	cell division cycle 26 [Source:HGNC Symbol;Acc:HGNC:17839]	4090	0.4340428113937378	-0.3033204	No	
+row_2	ANAPC4	anaphase promoting complex subunit 4 [Source:HGNC Symbol;Acc:HGNC:19990]	4126	0.4258340895175934	-0.28771102	No	
+row_3	UBE2E1	ubiquitin conjugating enzyme E2 E1 [Source:HGNC Symbol;Acc:HGNC:12477]	4468	0.35328564047813416	-0.30095214	No	
+row_4	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1 [Source:HGNC Symbol;Acc:HGNC:12458]	5956	0.1248718649148941	-0.42035574	No	
+row_5	CDC23	cell division cycle 23 [Source:HGNC Symbol;Acc:HGNC:1724]	6032	0.10555687546730042	-0.42205474	No	
+row_6	UBC	ubiquitin C [Source:HGNC Symbol;Acc:HGNC:12468]	6216	0.07052415609359741	-0.4343469	No	
+row_7	ANAPC15	anaphase promoting complex subunit 15 [Source:HGNC Symbol;Acc:HGNC:24531]	7146	-0.1391593962907791	-0.5062808	No	
+row_8	CDC20	cell division cycle 20 [Source:HGNC Symbol;Acc:HGNC:1723]	7683	-0.2635510265827179	-0.53980184	No	
+row_9	RPS27A	ribosomal protein S27a [Source:HGNC Symbol;Acc:HGNC:10417]	8035	-0.3293105363845825	-0.55492675	No	
+row_10	MAD2L1	mitotic arrest deficient 2 like 1 [Source:HGNC Symbol;Acc:HGNC:6763]	8584	-0.4232182800769806	-0.58250076	No	
+row_11	UBB	ubiquitin B [Source:HGNC Symbol;Acc:HGNC:12463]	8647	-0.44279879331588745	-0.5684193	No	
+row_12	ANAPC5	anaphase promoting complex subunit 5 [Source:HGNC Symbol;Acc:HGNC:15713]	9081	-0.5639011859893799	-0.5802106	No	
+row_13	ANAPC7	anaphase promoting complex subunit 7 [Source:HGNC Symbol;Acc:HGNC:17380]	10362	-0.996262788772583	-0.6442806	Yes	
+row_14	BUB3	BUB3 mitotic checkpoint protein [Source:HGNC Symbol;Acc:HGNC:1151]	10459	-1.0377354621887207	-0.6071403	Yes	
+row_15	CDC16	cell division cycle 16 [Source:HGNC Symbol;Acc:HGNC:1720]	10601	-1.124221682548523	-0.5700109	Yes	
+row_16	NEK2	NIMA related kinase 2 [Source:HGNC Symbol;Acc:HGNC:7745]	10634	-1.1438299417495728	-0.52287626	Yes	
+row_17	ANAPC1	anaphase promoting complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:19988]	10968	-1.3732984066009521	-0.49101758	Yes	
+row_18	UBE2C	ubiquitin conjugating enzyme E2 C [Source:HGNC Symbol;Acc:HGNC:15937]	11098	-1.4936649799346924	-0.4367891	Yes	
+row_19	ANAPC16	anaphase promoting complex subunit 16 [Source:HGNC Symbol;Acc:HGNC:26976]	11225	-1.628576397895813	-0.37643248	Yes	
+row_20	UBE2D1	ubiquitin conjugating enzyme E2 D1 [Source:HGNC Symbol;Acc:HGNC:12474]	11441	-1.8970309495925903	-0.311855	Yes	
+row_21	ANAPC10	anaphase promoting complex subunit 10 [Source:HGNC Symbol;Acc:HGNC:24077]	11450	-1.915385365486145	-0.22909917	Yes	
+row_22	BUB1B	BUB1 mitotic checkpoint serine/threonine kinase B [Source:HGNC Symbol;Acc:HGNC:1149]	11562	-2.105116128921509	-0.1467268	Yes	
+row_23	CDC27	cell division cycle 27 [Source:HGNC Symbol;Acc:HGNC:1728]	11927	-4.083765029907227	5.8770087E-4	Yes	

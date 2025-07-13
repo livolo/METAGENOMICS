@@ -1,0 +1,20 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ANAPC11	anaphase promoting complex subunit 11 [Source:HGNC Symbol;Acc:HGNC:14452]	3799	0.48374736309051514	-0.2956108	No	
+row_1	CDC26	cell division cycle 26 [Source:HGNC Symbol;Acc:HGNC:17839]	4090	0.4340428113937378	-0.29912776	No	
+row_2	ANAPC4	anaphase promoting complex subunit 4 [Source:HGNC Symbol;Acc:HGNC:19990]	4126	0.4258340895175934	-0.2816387	No	
+row_3	UBE2E1	ubiquitin conjugating enzyme E2 E1 [Source:HGNC Symbol;Acc:HGNC:12477]	4468	0.35328564047813416	-0.2933094	No	
+row_4	CDC23	cell division cycle 23 [Source:HGNC Symbol;Acc:HGNC:1724]	6032	0.10555687546730042	-0.41941422	No	
+row_5	ANAPC15	anaphase promoting complex subunit 15 [Source:HGNC Symbol;Acc:HGNC:24531]	7146	-0.1391593962907791	-0.5061429	No	
+row_6	CDC20	cell division cycle 20 [Source:HGNC Symbol;Acc:HGNC:1723]	7683	-0.2635510265827179	-0.5384825	No	
+row_7	MAD2L1	mitotic arrest deficient 2 like 1 [Source:HGNC Symbol;Acc:HGNC:6763]	8584	-0.4232182800769806	-0.59371036	No	
+row_8	ANAPC5	anaphase promoting complex subunit 5 [Source:HGNC Symbol;Acc:HGNC:15713]	9081	-0.5639011859893799	-0.608286	No	
+row_9	ANAPC7	anaphase promoting complex subunit 7 [Source:HGNC Symbol;Acc:HGNC:17380]	10362	-0.996262788772583	-0.6679162	Yes	
+row_10	BUB3	BUB3 mitotic checkpoint protein [Source:HGNC Symbol;Acc:HGNC:1151]	10459	-1.0377354621887207	-0.6261948	Yes	
+row_11	CDC16	cell division cycle 16 [Source:HGNC Symbol;Acc:HGNC:1720]	10601	-1.124221682548523	-0.58410126	Yes	
+row_12	ANAPC1	anaphase promoting complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:19988]	10968	-1.3732984066009521	-0.54894227	Yes	
+row_13	UBE2C	ubiquitin conjugating enzyme E2 C [Source:HGNC Symbol;Acc:HGNC:15937]	11098	-1.4936649799346924	-0.48812032	Yes	
+row_14	ANAPC16	anaphase promoting complex subunit 16 [Source:HGNC Symbol;Acc:HGNC:26976]	11225	-1.628576397895813	-0.42057523	Yes	
+row_15	UBE2D1	ubiquitin conjugating enzyme E2 D1 [Source:HGNC Symbol;Acc:HGNC:12474]	11441	-1.8970309495925903	-0.34762195	Yes	
+row_16	ANAPC10	anaphase promoting complex subunit 10 [Source:HGNC Symbol;Acc:HGNC:24077]	11450	-1.915385365486145	-0.25641665	Yes	
+row_17	BUB1B	BUB1 mitotic checkpoint serine/threonine kinase B [Source:HGNC Symbol;Acc:HGNC:1149]	11562	-2.105116128921509	-0.16475424	Yes	
+row_18	CDC27	cell division cycle 27 [Source:HGNC Symbol;Acc:HGNC:1728]	11927	-4.083765029907227	5.875032E-4	Yes	

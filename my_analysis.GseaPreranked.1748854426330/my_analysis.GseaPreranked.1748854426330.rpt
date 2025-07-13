@@ -1,0 +1,24 @@
+producer_class	xtools.gsea.GseaPreranked
+producer_timestamp	1748854426330
+param	rnd_seed	timestamp
+param	rpt_label	my_analysis
+param	set_min	5
+param	chip	C:\Users\kirti\OneDrive\Documents\Desktop\project metabolite\Human_Ensembl_Gene_ID_MSigDB.v2024.1.Hs.chip
+param	zip_report	false
+param	create_svgs	false
+param	scoring_scheme	weighted
+param	rnk	C:\Users\kirti\OneDrive\Documents\Desktop\project metabolite\DESeq2_metabolic.rnk
+param	norm	meandiv
+param	out	C:\Users\kirti\OneDrive\Documents\Desktop\project metabolite\output
+param	mode	Abs_max_of_probes
+param	include_only_symbols	true
+param	help	false
+param	set_max	1000
+param	gmx	C:\Users\kirti\OneDrive\Documents\Desktop\project metabolite\c2.all.v2024.1.Hs.symbols.gmt
+param	make_sets	true
+param	plot_top_x	20
+param	gui	false
+param	nperm	1000
+param	collapse	Collapse
+
+file	C:\Users\kirti\OneDrive\Documents\Desktop\project metabolite\output\my_analysis.GseaPreranked.1748854426330\index.html

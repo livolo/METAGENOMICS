@@ -1,0 +1,11 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BCL6	BCL6 transcription repressor [Source:HGNC Symbol;Acc:HGNC:1001]	208	2.3404502868652344	0.18995094	Yes	
+row_1	SOD2	superoxide dismutase 2 [Source:HGNC Symbol;Acc:HGNC:11180]	344	2.0303544998168945	0.3585451	Yes	
+row_2	CILK1	ciliogenesis associated kinase 1 [Source:HGNC Symbol;Acc:HGNC:21219]	797	1.488847255706787	0.4525721	Yes	
+row_3	S100A9	S100 calcium binding protein A9 [Source:HGNC Symbol;Acc:HGNC:10499]	838	1.4527007341384888	0.57794535	Yes	
+row_4	CDKN1A	cyclin dependent kinase inhibitor 1A [Source:HGNC Symbol;Acc:HGNC:1784]	1143	1.2346312999725342	0.66185653	Yes	
+row_5	IL11	interleukin 11 [Source:HGNC Symbol;Acc:HGNC:5966]	1943	0.8858237862586975	0.67334956	Yes	
+row_6	MMP13	matrix metallopeptidase 13 [Source:HGNC Symbol;Acc:HGNC:7159]	2079	0.8552138209342957	0.73781145	Yes	
+row_7	MVP	major vault protein [Source:HGNC Symbol;Acc:HGNC:7531]	4364	0.36942124366760254	0.57901645	No	
+row_8	DPP4	dipeptidyl peptidase 4 [Source:HGNC Symbol;Acc:HGNC:3009]	4562	0.35328564047813416	0.59380203	No	
+row_9	AIM2	absent in melanoma 2 [Source:HGNC Symbol;Acc:HGNC:357]	7723	-0.2743532359600067	0.3531237	No	

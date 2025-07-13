@@ -1,0 +1,9 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MTOR	mechanistic target of rapamycin kinase [Source:HGNC Symbol;Acc:HGNC:3942]	53	2.913820743560791	0.34220248	Yes	
+row_1	PIK3CB	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:8976]	279	2.1726126670837402	0.5818052	Yes	
+row_2	AKT1	AKT serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:391]	308	2.1056578159332275	0.82995975	Yes	
+row_3	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	4027	0.445698618888855	0.5712531	No	
+row_4	AKT3	AKT serine/threonine kinase 3 [Source:HGNC Symbol;Acc:HGNC:393]	5190	0.2534843385219574	0.5039832	No	
+row_5	PIK3CD	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [Source:HGNC Symbol;Acc:HGNC:8977]	6691	-0.02895287051796913	0.38166255	No	
+row_6	AKT2	AKT serine/threonine kinase 2 [Source:HGNC Symbol;Acc:HGNC:392]	7512	-0.2260265201330185	0.33980048	No	
+row_7	PIK3CA	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:8975]	7670	-0.2594950497150421	0.3575082	No	

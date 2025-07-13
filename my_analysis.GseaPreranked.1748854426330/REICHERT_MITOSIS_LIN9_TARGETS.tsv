@@ -1,0 +1,28 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CDK11B	cyclin dependent kinase 11B [Source:HGNC Symbol;Acc:HGNC:1729]	2407	0.7740178108215332	-0.16987906	No	
+row_1	VCPIP1	valosin containing protein interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:30897]	2728	0.7044287323951721	-0.16739762	No	
+row_2	LMLN	leishmanolysin like peptidase [Source:HGNC Symbol;Acc:HGNC:15991]	3207	0.5978550910949707	-0.18262559	No	
+row_3	MYO6	myosin VI [Source:HGNC Symbol;Acc:HGNC:7605]	3754	0.49750587344169617	-0.20774563	No	
+row_4	CDCA2	cell division cycle associated 2 [Source:HGNC Symbol;Acc:HGNC:14623]	5102	0.2752843499183655	-0.30939153	No	
+row_5	MKI67	marker of proliferation Ki-67 [Source:HGNC Symbol;Acc:HGNC:7107]	5298	0.22839093208312988	-0.31624985	No	
+row_6	CALD1	caldesmon 1 [Source:HGNC Symbol;Acc:HGNC:1441]	6016	0.1090252548456192	-0.3719183	No	
+row_7	KNL1	kinetochore scaffold 1 [Source:HGNC Symbol;Acc:HGNC:24054]	6050	0.10294448584318161	-0.37039977	No	
+row_8	CEP55	centrosomal protein 55 [Source:HGNC Symbol;Acc:HGNC:1161]	6756	-0.042274992913007736	-0.42784202	No	
+row_9	AURKA	aurora kinase A [Source:HGNC Symbol;Acc:HGNC:11393]	6867	-0.06701677292585373	-0.43428686	No	
+row_10	NUSAP1	nucleolar and spindle associated protein 1 [Source:HGNC Symbol;Acc:HGNC:18538]	7802	-0.29832935333251953	-0.5002899	No	
+row_11	CCNF	cyclin F [Source:HGNC Symbol;Acc:HGNC:1591]	7994	-0.3151356279850006	-0.50319755	No	
+row_12	PLK1	polo like kinase 1 [Source:HGNC Symbol;Acc:HGNC:9077]	9189	-0.5962185263633728	-0.5786214	No	
+row_13	KIF23	kinesin family member 23 [Source:HGNC Symbol;Acc:HGNC:6392]	9705	-0.7509642839431763	-0.59057635	Yes	
+row_14	HMGB2	high mobility group box 2 [Source:HGNC Symbol;Acc:HGNC:5000]	9715	-0.7553269267082214	-0.559857	Yes	
+row_15	FBXO5	F-box protein 5 [Source:HGNC Symbol;Acc:HGNC:13584]	9767	-0.7752014398574829	-0.53183657	Yes	
+row_16	HMMR	hyaluronan mediated motility receptor [Source:HGNC Symbol;Acc:HGNC:5012]	10084	-0.8730199337005615	-0.5219939	Yes	
+row_17	CENPE	centromere protein E [Source:HGNC Symbol;Acc:HGNC:1856]	10286	-0.9589166641235352	-0.49891445	Yes	
+row_18	NCAPD2	non-SMC condensin I complex subunit D2 [Source:HGNC Symbol;Acc:HGNC:24305]	10659	-1.1585718393325806	-0.4818753	Yes	
+row_19	CENPF	centromere protein F [Source:HGNC Symbol;Acc:HGNC:1857]	10686	-1.1816942691802979	-0.4348165	Yes	
+row_20	ANAPC1	anaphase promoting complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:19988]	10968	-1.3732984066009521	-0.40118763	Yes	
+row_21	KIF2C	kinesin family member 2C [Source:HGNC Symbol;Acc:HGNC:6393]	10984	-1.3920023441314697	-0.34444138	Yes	
+row_22	ASPM	assembly factor for spindle microtubules [Source:HGNC Symbol;Acc:HGNC:19048]	11220	-1.624297022819519	-0.29649022	Yes	
+row_23	CENPA	centromere protein A [Source:HGNC Symbol;Acc:HGNC:1851]	11222	-1.6257497072219849	-0.22882785	Yes	
+row_24	CCNB1	cyclin B1 [Source:HGNC Symbol;Acc:HGNC:1579]	11307	-1.7122070789337158	-0.16453284	Yes	
+row_25	KIF20A	kinesin family member 20A [Source:HGNC Symbol;Acc:HGNC:9787]	11657	-2.278067111968994	-0.098911926	Yes	
+row_26	TOP2A	DNA topoisomerase II alpha [Source:HGNC Symbol;Acc:HGNC:11989]	11840	-2.929856538772583	0.007893783	Yes	

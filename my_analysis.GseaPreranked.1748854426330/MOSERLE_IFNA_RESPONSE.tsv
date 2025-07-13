@@ -1,0 +1,25 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DDX60L	DExD/H-box 60 like [Source:HGNC Symbol;Acc:HGNC:26429]	16	3.2664520740509033	0.12872678	Yes	
+row_1	OASL	2'-5'-oligoadenylate synthetase like [Source:HGNC Symbol;Acc:HGNC:8090]	109	2.6142780780792236	0.22510333	Yes	
+row_2	RIGI	RNA sensor RIG-I [Source:HGNC Symbol;Acc:HGNC:19102]	253	2.226348876953125	0.3017508	Yes	
+row_3	ZC3HAV1	zinc finger CCCH-type containing, antiviral 1 [Source:HGNC Symbol;Acc:HGNC:23721]	682	1.5856058597564697	0.32895643	Yes	
+row_4	GBP1	guanylate binding protein 1 [Source:HGNC Symbol;Acc:HGNC:4182]	748	1.5306708812713623	0.38445058	Yes	
+row_5	USP18	ubiquitin specific peptidase 18 [Source:HGNC Symbol;Acc:HGNC:12616]	878	1.4260667562484741	0.4304062	Yes	
+row_6	TNFSF10	TNF superfamily member 10 [Source:HGNC Symbol;Acc:HGNC:11925]	937	1.3761975765228271	0.48033693	Yes	
+row_7	IFIT1	interferon induced protein with tetratricopeptide repeats 1 [Source:HGNC Symbol;Acc:HGNC:5407]	1126	1.2516669034957886	0.5143946	Yes	
+row_8	IFIT3	interferon induced protein with tetratricopeptide repeats 3 [Source:HGNC Symbol;Acc:HGNC:5411]	1148	1.2328342199325562	0.56172293	Yes	
+row_9	IFIT5	interferon induced protein with tetratricopeptide repeats 5 [Source:HGNC Symbol;Acc:HGNC:13328]	1155	1.2282240390777588	0.61012703	Yes	
+row_10	HERC5	HECT and RLD domain containing E3 ubiquitin protein ligase 5 [Source:HGNC Symbol;Acc:HGNC:24368]	1198	1.1998887062072754	0.65438044	Yes	
+row_11	DDX60	DExD/H-box helicase 60 [Source:HGNC Symbol;Acc:HGNC:25942]	1495	1.0605076551437378	0.6717589	Yes	
+row_12	TRIM22	tripartite motif containing 22 [Source:HGNC Symbol;Acc:HGNC:16379]	1754	0.9528786540031433	0.6880418	Yes	
+row_13	IFITM1	interferon induced transmembrane protein 1 [Source:HGNC Symbol;Acc:HGNC:5412]	3007	0.6401596069335938	0.6084201	No	
+row_14	MX1	MX dynamin like GTPase 1 [Source:HGNC Symbol;Acc:HGNC:7532]	3394	0.583215594291687	0.59923667	No	
+row_15	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	3905	0.4602939188480377	0.574748	No	
+row_16	SAMD9L	sterile alpha motif domain containing 9 like [Source:HGNC Symbol;Acc:HGNC:1349]	5077	0.28087449073791504	0.48761994	No	
+row_17	IFI44L	interferon induced protein 44 like [Source:HGNC Symbol;Acc:HGNC:17817]	5119	0.27260416746139526	0.49503282	No	
+row_18	IFI16	interferon gamma inducible protein 16 [Source:HGNC Symbol;Acc:HGNC:5395]	5256	0.2382264882326126	0.493101	No	
+row_19	OAS1	2'-5'-oligoadenylate synthetase 1 [Source:HGNC Symbol;Acc:HGNC:8086]	5293	0.22908958792686462	0.4992009	No	
+row_20	IFIT2	interferon induced protein with tetratricopeptide repeats 2 [Source:HGNC Symbol;Acc:HGNC:5409]	5984	0.11519699543714523	0.44585842	No	
+row_21	IFI44	interferon induced protein 44 [Source:HGNC Symbol;Acc:HGNC:16938]	6483	0.011192543432116508	0.40449402	No	
+row_22	SAMD9	sterile alpha motif domain containing 9 [Source:HGNC Symbol;Acc:HGNC:1348]	7195	-0.15211817622184753	0.35085863	No	
+row_23	OAS2	2'-5'-oligoadenylate synthetase 2 [Source:HGNC Symbol;Acc:HGNC:8087]	10682	-1.1784236431121826	0.10511279	No	

@@ -1,0 +1,18 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ANAPC11	anaphase promoting complex subunit 11 [Source:HGNC Symbol;Acc:HGNC:14452]	3799	0.48374736309051514	-0.29197022	No	
+row_1	CDC26	cell division cycle 26 [Source:HGNC Symbol;Acc:HGNC:17839]	4090	0.4340428113937378	-0.29226467	No	
+row_2	ANAPC4	anaphase promoting complex subunit 4 [Source:HGNC Symbol;Acc:HGNC:19990]	4126	0.4258340895175934	-0.2716175	No	
+row_3	UBE2E1	ubiquitin conjugating enzyme E2 E1 [Source:HGNC Symbol;Acc:HGNC:12477]	4468	0.35328564047813416	-0.28066376	No	
+row_4	CDC23	cell division cycle 23 [Source:HGNC Symbol;Acc:HGNC:1724]	6032	0.10555687546730042	-0.40596387	No	
+row_5	ANAPC15	anaphase promoting complex subunit 15 [Source:HGNC Symbol;Acc:HGNC:24531]	7146	-0.1391593962907791	-0.49164498	No	
+row_6	CDC20	cell division cycle 20 [Source:HGNC Symbol;Acc:HGNC:1723]	7683	-0.2635510265827179	-0.5220228	No	
+row_7	ANAPC5	anaphase promoting complex subunit 5 [Source:HGNC Symbol;Acc:HGNC:15713]	9081	-0.5639011859893799	-0.60801	No	
+row_8	FZR1	fizzy and cell division cycle 20 related 1 [Source:HGNC Symbol;Acc:HGNC:24824]	9760	-0.7748621702194214	-0.62198466	Yes	
+row_9	ANAPC7	anaphase promoting complex subunit 7 [Source:HGNC Symbol;Acc:HGNC:17380]	10362	-0.996262788772583	-0.6172368	Yes	
+row_10	CDC16	cell division cycle 16 [Source:HGNC Symbol;Acc:HGNC:1720]	10601	-1.124221682548523	-0.574944	Yes	
+row_11	ANAPC1	anaphase promoting complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:19988]	10968	-1.3732984066009521	-0.52959675	Yes	
+row_12	UBE2C	ubiquitin conjugating enzyme E2 C [Source:HGNC Symbol;Acc:HGNC:15937]	11098	-1.4936649799346924	-0.45769733	Yes	
+row_13	ANAPC16	anaphase promoting complex subunit 16 [Source:HGNC Symbol;Acc:HGNC:26976]	11225	-1.628576397895813	-0.37807444	Yes	
+row_14	UBE2D1	ubiquitin conjugating enzyme E2 D1 [Source:HGNC Symbol;Acc:HGNC:12474]	11441	-1.8970309495925903	-0.29105148	Yes	
+row_15	ANAPC10	anaphase promoting complex subunit 10 [Source:HGNC Symbol;Acc:HGNC:24077]	11450	-1.915385365486145	-0.18564332	Yes	
+row_16	CDC27	cell division cycle 27 [Source:HGNC Symbol;Acc:HGNC:1728]	11927	-4.083765029907227	5.874705E-4	Yes	

@@ -1,0 +1,20 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CASD1	CAS1 domain containing 1 [Source:HGNC Symbol;Acc:HGNC:16014]	140	2.5184123516082764	0.14013743	Yes	
+row_1	RAB31	RAB31, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9771]	421	1.9146687984466553	0.23211397	Yes	
+row_2	SERPINB1	serpin family B member 1 [Source:HGNC Symbol;Acc:HGNC:3311]	722	1.5506011247634888	0.30045503	Yes	
+row_3	S100A9	S100 calcium binding protein A9 [Source:HGNC Symbol;Acc:HGNC:10499]	838	1.4527007341384888	0.37841704	Yes	
+row_4	LCN2	lipocalin 2 [Source:HGNC Symbol;Acc:HGNC:6526]	895	1.4069733619689941	0.45857257	Yes	
+row_5	ALDH2	aldehyde dehydrogenase 2 family member [Source:HGNC Symbol;Acc:HGNC:404]	1285	1.157508373260498	0.4957371	Yes	
+row_6	CEBPA	CCAAT enhancer binding protein alpha [Source:HGNC Symbol;Acc:HGNC:1833]	1710	0.9722170233726501	0.51878947	Yes	
+row_7	LYZ	lysozyme [Source:HGNC Symbol;Acc:HGNC:6740]	1837	0.9292104244232178	0.5642564	Yes	
+row_8	S100A8	S100 calcium binding protein A8 [Source:HGNC Symbol;Acc:HGNC:10498]	1953	0.8848168253898621	0.60796916	Yes	
+row_9	IL18	interleukin 18 [Source:HGNC Symbol;Acc:HGNC:5986]	2147	0.8339534401893616	0.6420685	Yes	
+row_10	CSF2RA	colony stimulating factor 2 receptor subunit alpha [Source:HGNC Symbol;Acc:HGNC:2435]	2463	0.7571012377738953	0.6612945	Yes	
+row_11	DGAT2	diacylglycerol O-acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:16940]	3011	0.6393308043479919	0.6539481	No	
+row_12	SPINT2	serine peptidase inhibitor, Kunitz type 2 [Source:HGNC Symbol;Acc:HGNC:11247]	3407	0.578851580619812	0.65571016	No	
+row_13	CD177	CD177 molecule [Source:HGNC Symbol;Acc:HGNC:30072]	4763	0.3451322615146637	0.56281257	No	
+row_14	LGALS1	galectin 1 [Source:HGNC Symbol;Acc:HGNC:6561]	6144	0.08430703729391098	0.45208645	No	
+row_15	PGD	phosphogluconate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:8891]	6420	0.026098553091287613	0.43058226	No	
+row_16	HP	haptoglobin [Source:HGNC Symbol;Acc:HGNC:5141]	7185	-0.15155649185180664	0.3756072	No	
+row_17	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]	7259	-0.16270002722740173	0.37929347	No	
+row_18	GLRX	glutaredoxin [Source:HGNC Symbol;Acc:HGNC:4330]	7467	-0.21475933492183685	0.3748741	No	

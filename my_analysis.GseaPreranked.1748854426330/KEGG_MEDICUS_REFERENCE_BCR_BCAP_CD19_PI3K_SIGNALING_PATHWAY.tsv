@@ -1,0 +1,12 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	136	2.531740427017212	0.20792586	Yes	
+row_1	AKT1	AKT serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:391]	308	2.1056578159332275	0.37600377	Yes	
+row_2	LYN	LYN proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6735]	327	2.0673506259918213	0.5535943	Yes	
+row_3	CD81	CD81 molecule [Source:HGNC Symbol;Acc:HGNC:1701]	465	1.8557751178741455	0.7028756	Yes	
+row_4	PIK3R3	phosphoinositide-3-kinase regulatory subunit 3 [Source:HGNC Symbol;Acc:HGNC:8981]	1464	1.0754516124725342	0.7123481	Yes	
+row_5	PIK3R2	phosphoinositide-3-kinase regulatory subunit 2 [Source:HGNC Symbol;Acc:HGNC:8980]	2639	0.71342533826828	0.67569715	No	
+row_6	IFITM1	interferon induced transmembrane protein 1 [Source:HGNC Symbol;Acc:HGNC:5412]	3007	0.6401596069335938	0.70037764	No	
+row_7	AKT3	AKT serine/threonine kinase 3 [Source:HGNC Symbol;Acc:HGNC:393]	5190	0.2534843385219574	0.5393454	No	
+row_8	PIK3CD	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [Source:HGNC Symbol;Acc:HGNC:8977]	6691	-0.02895287051796913	0.41605693	No	
+row_9	SYK	spleen associated tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11491]	6765	-0.04496461898088455	0.41383022	No	
+row_10	AKT2	AKT serine/threonine kinase 2 [Source:HGNC Symbol;Acc:HGNC:392]	7512	-0.2260265201330185	0.3708486	No	

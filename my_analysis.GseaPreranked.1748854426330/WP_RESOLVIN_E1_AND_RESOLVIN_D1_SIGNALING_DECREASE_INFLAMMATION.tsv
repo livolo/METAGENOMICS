@@ -1,0 +1,8 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MTOR	mechanistic target of rapamycin kinase [Source:HGNC Symbol;Acc:HGNC:3942]	53	2.913820743560791	0.352565	Yes	
+row_1	PIK3CB	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:8976]	279	2.1726126670837402	0.59989554	Yes	
+row_2	AKT1	AKT serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:391]	308	2.1056578159332275	0.85553837	Yes	
+row_3	EPHB2	EPH receptor B2 [Source:HGNC Symbol;Acc:HGNC:3393]	3928	0.4559439420700073	0.60799795	No	
+row_4	PIK3CD	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta [Source:HGNC Symbol;Acc:HGNC:8977]	6691	-0.02895287051796913	0.37998933	No	
+row_5	PDK1	pyruvate dehydrogenase kinase 1 [Source:HGNC Symbol;Acc:HGNC:8809]	7509	-0.2252897024154663	0.33909807	No	
+row_6	PIK3CA	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:8975]	7670	-0.2594950497150421	0.3574782	No	

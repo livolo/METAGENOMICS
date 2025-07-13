@@ -1,0 +1,32 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PRSS8	serine protease 8 [Source:HGNC Symbol;Acc:HGNC:9491]	78	2.78920316696167	0.09048474	Yes	
+row_1	CHKA	choline kinase alpha [Source:HGNC Symbol;Acc:HGNC:1937]	207	2.3411946296691895	0.16118287	Yes	
+row_2	TYK2	tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:12440]	299	2.1200966835021973	0.22729714	Yes	
+row_3	NID1	nidogen 1 [Source:HGNC Symbol;Acc:HGNC:7821]	593	1.684372067451477	0.26128334	Yes	
+row_4	RESF1	retroelement silencing factor 1 [Source:HGNC Symbol;Acc:HGNC:25559]	814	1.4746005535125732	0.29410392	Yes	
+row_5	RARB	retinoic acid receptor beta [Source:HGNC Symbol;Acc:HGNC:9865]	887	1.4154901504516602	0.33730084	Yes	
+row_6	DUSP1	dual specificity phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:3064]	999	1.334671974182129	0.37440985	Yes	
+row_7	CP	ceruloplasmin [Source:HGNC Symbol;Acc:HGNC:2295]	1184	1.1998887062072754	0.40069732	Yes	
+row_8	SAT1	spermidine/spermine N1-acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10540]	1308	1.1444177627563477	0.43017927	Yes	
+row_9	BHLHE40	basic helix-loop-helix family member e40 [Source:HGNC Symbol;Acc:HGNC:1046]	1398	1.1131833791732788	0.46143076	Yes	
+row_10	NUPR1	nuclear protein 1, transcriptional regulator [Source:HGNC Symbol;Acc:HGNC:29990]	1633	0.9977015256881714	0.47648382	Yes	
+row_11	TM4SF1	transmembrane 4 L six family member 1 [Source:HGNC Symbol;Acc:HGNC:11853]	1730	0.9621511697769165	0.5018928	Yes	
+row_12	DHRS3	dehydrogenase/reductase 3 [Source:HGNC Symbol;Acc:HGNC:17693]	1969	0.8790532946586609	0.51248205	Yes	
+row_13	CAPN5	calpain 5 [Source:HGNC Symbol;Acc:HGNC:1482]	2006	0.8718587756156921	0.5397901	Yes	
+row_14	CEBPB	CCAAT enhancer binding protein beta [Source:HGNC Symbol;Acc:HGNC:1834]	2086	0.8529191017150879	0.56282693	Yes	
+row_15	JUNB	JunB proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6205]	2490	0.7507652640342712	0.5550921	Yes	
+row_16	STK11	serine/threonine kinase 11 [Source:HGNC Symbol;Acc:HGNC:11389]	2673	0.71342533826828	0.5646234	Yes	
+row_17	INMT	indolethylamine N-methyltransferase [Source:HGNC Symbol;Acc:HGNC:6069]	2852	0.6726920008659363	0.57307357	Yes	
+row_18	BLNK	B cell linker [Source:HGNC Symbol;Acc:HGNC:14211]	3082	0.621963620185852	0.5754746	Yes	
+row_19	PGPEP1	pyroglutamyl-peptidase I [Source:HGNC Symbol;Acc:HGNC:13568]	4260	0.39305371046066284	0.49027476	No	
+row_20	HMGA1	high mobility group AT-hook 1 [Source:HGNC Symbol;Acc:HGNC:5010]	5774	0.16426458954811096	0.36888945	No	
+row_21	CRABP2	cellular retinoic acid binding protein 2 [Source:HGNC Symbol;Acc:HGNC:2339]	6152	0.08306986838579178	0.34010944	No	
+row_22	MRPL34	mitochondrial ribosomal protein L34 [Source:HGNC Symbol;Acc:HGNC:14488]	7213	-0.15574365854263306	0.2564821	No	
+row_23	TNFRSF12A	TNF receptor superfamily member 12A [Source:HGNC Symbol;Acc:HGNC:18152]	7247	-0.16085651516914368	0.25930616	No	
+row_24	ESD	esterase D [Source:HGNC Symbol;Acc:HGNC:3465]	7649	-0.2543812096118927	0.23447001	No	
+row_25	SKIL	SKI like proto-oncogene [Source:HGNC Symbol;Acc:HGNC:10897]	7706	-0.2697179317474365	0.23914927	No	
+row_26	TGFB3	transforming growth factor beta 3 [Source:HGNC Symbol;Acc:HGNC:11769]	7874	-0.30872267484664917	0.23586091	No	
+row_27	GSR	glutathione-disulfide reductase [Source:HGNC Symbol;Acc:HGNC:4623]	9557	-0.6847737431526184	0.11838734	No	
+row_28	DUSP6	dual specificity phosphatase 6 [Source:HGNC Symbol;Acc:HGNC:3072]	9567	-0.6903901100158691	0.14165016	No	
+row_29	CA12	carbonic anhydrase 12 [Source:HGNC Symbol;Acc:HGNC:1371]	9698	-0.746862530708313	0.15671302	No	
+row_30	MMP2	matrix metallopeptidase 2 [Source:HGNC Symbol;Acc:HGNC:7166]	10120	-0.8921759724617004	0.1523858	No	
